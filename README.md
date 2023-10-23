@@ -33,3 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
 </div>
 
+﻿
+### trophy: Достижения:
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=rompersLoppy03" alt=""/> 
+</div>
