@@ -17,4 +17,4 @@
   <h1> Проиль на GITHUB </h1>
 </div>
 
-:man_technologist: 060 мне :
+:man_technologist: Обо мне :
