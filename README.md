@@ -18,3 +18,7 @@
 </div>
 
 :man_technologist: Обо мне :
+
+- :house: люблю сидеть дома
+- :wine_glass: ВИНО!!!
+- :money_with_wings: ДЕНЬГИ!!!
