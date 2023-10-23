@@ -50,5 +50,5 @@
 ### :bar_chart: Статистика активности :
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph username=rompersStomper&theme=high-contrast" alt=""/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph username=Loppy03&theme=high-contrast" alt=""/> 
 </div>
