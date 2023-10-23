@@ -17,7 +17,7 @@
   <h1> Проиль на GITHUB </h1>
 </div>
 
-### :man_technologist: Обо мне :
+### 👨‍💻: Обо мне :
 
 - :house: люблю сидеть дома
 - :wine_glass: ВИНО!!!
@@ -34,7 +34,7 @@
 </div>
 
 ﻿
-### :trophy: Достижения:
+### 🏆: Достижения:
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=Loppy03" alt=""/> 
@@ -47,7 +47,7 @@
 </div>
 
 ﻿
-### :bar_chart: Статистика активности :
+### 📊: Статистика активности :
 
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loppy03&theme=high-contrast" alt=""/> 
