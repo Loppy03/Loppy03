@@ -40,9 +40,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Loppy03" alt=""/> 
 </div>
 
-### ⌨️: Наиболее используемые языки:
+### :⌨️: Наиболее используемые языки:
 
-﻿
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loppy03" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loppy03" alt=""/>
 </div>
