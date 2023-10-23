@@ -10,5 +10,5 @@
   ﻿
 ﻿
 <div id="viewprof" align="center">
-  <img src="https://komarev.com/ghpvc/?username=rompersLoppy03&style-flat-square&color=pink" alt="" /> 
+  <img src="https://komarev.com/ghpvc/?username=rompersLoppy03&style-flat-square&color=blue" alt="" /> 
 </div>
