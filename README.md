@@ -34,7 +34,7 @@
 </div>
 
 ﻿
-### trophy: Достижения:
+### :trophy: Достижения:
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=rompersLoppy03" alt=""/> 
